@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://github.com/ReallySimpleRich/Profile_retype_TIK.git/sitemap.xml.gz
